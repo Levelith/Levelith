@@ -20,12 +20,12 @@
 # 📊 GitHub Stats:
 </div>
 
-<div align="left">
+<div align="center">
   
   ![](https://github-readme-stats.vercel.app/api?username=Levelith&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
 </div>
-<div align="right">
+<div align="center">
   
   ![](https://nirzak-streak-stats.vercel.app/?user=Levelith&theme=highcontrast&hide_border=false)<br/>
 

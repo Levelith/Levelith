@@ -16,3 +16,10 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=py,terminal,photoshop,illustrator,audition,opensource,virtualbox,git,github,vscode,steam,windows,linux" style="border: none;" />
   </a>
 </p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Levelith&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Levelith&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Levelith&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+

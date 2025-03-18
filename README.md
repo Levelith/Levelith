@@ -18,8 +18,27 @@
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Levelith&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Levelith&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Levelith&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+</div>
+
+<div align="left">
+  
+  ![](https://github-readme-stats.vercel.app/api?username=Levelith&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br/>
+
+</div>
+<div align="right">
+  
+  ![](https://nirzak-streak-stats.vercel.app/?user=Levelith&theme=highcontrast&hide_border=false)<br/>
+
+</div>
+<div align="center">
+  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Levelith&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+</div>
+
+
+
+
+
 
 

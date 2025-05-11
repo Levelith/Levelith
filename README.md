@@ -12,8 +12,7 @@
   <a href="https://go-skill-icons.vercel.app" style="border: none; text-decoration: none;">
   <a href="https://skillicons.dev" style="text-decoration: none; border: none;">
   <a href="[https://skillicons.dev](https://go-skill-icons.vercel.app)" style="text-decoration: none; border: none;">
-    <!-- <img src="https://skillicons.dev/icons?i=" style="border: none;" /> -->
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=py,javascript, terminal,photoshop,premiere,illustrator,audacity,opensource,virtualbox,git,github,vscode,steam,windows,linux" style="border: none;" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=py,javascript,terminal,photoshop,premiere,illustrator,audacity,opensource,virtualbox,git,github,vscode,steam,windows,linux" style="border: none;" />
   </a>
 </p>
 
